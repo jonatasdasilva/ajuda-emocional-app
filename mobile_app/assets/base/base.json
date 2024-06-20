@@ -1,0 +1,459 @@
+{
+  "frases": [
+    {
+      "motivacao": [
+        {
+          "Frase":"Errei mais de 9.000 cestas e perdi quase 300 jogos. Em 26 diferentes finais de partidas fui encarregado de jogar a bola que venceria o jogo... e falhei. Eu tenho uma história repleta de falhas e fracassos em minha vida. E é exatamente por isso que sou um sucesso.",
+          "Autor":"Michael Jordan",
+          "Reflexão":"O maior nome do basquete mundial esteve cara a cara com o fracasso inúmeras vezes. Assim como todos nós. Tem dias que parece que nada dará certo, mas continuar tentando é a única forma de vencer isso!"
+        },
+        {
+          "Frase":"Existe um momento na vida de cada pessoa que é possível sonhar e realizar nossos sonhos… e esse momento tão fugaz chama-se presente e tem a duração do tempo que passa.",
+          "Autor":"Mario Quintana",
+          "Reflexão":"Todo mundo sabe que deixar as coisas para depois não é bom. A tal da procrastinação é uma das pragas que envenenam o caminho para o sucesso. Mas a realidade é essa: a vida não espera! O primeiro passo é sempre o mais difícil, mas justamente o mais importante. O que você fez hoje em direção àquilo que deseja?"
+        },
+        {
+          "Frase":"O único lugar onde sucesso vem antes do trabalho é no dicionário.",
+          "Autor":"Albert Einsten",
+          "Reflexão":"Essa é uma das frases mais famosas do cientista mais famoso do mundo. O raciocínio é tão simples, não é? É o que os mais velhos costumam dizer: nada vem de graça. O importante é fazer acontecer!"
+        },
+        {
+          "Frase":"Um sonho é apenas um desejo, até o momento em que você começa a atuar sobre ele, e propõe-se a transformá-lo em uma meta.",
+          "Autor":"Mary Kay Ash",
+          "Reflexão":"A fundadora da mundialmente famosa marca de maquiagem transformou seu sonho em meta aos 45 anos de idade, depois que foi vítima de machismo na empresa em que trabalhava. Seu sonho de embelezar e enriquecer mulheres ao redor do mundo hoje é bilionário. Quer mais motivação que isso?"
+        },
+        {
+          "Frase":"Coloque seu coração, mente e alma até mesmo nas menores coisas que você fizer. Esse é o segredo para o sucesso.",
+          "Autor":"Guilherme Ávila",
+          "Reflexão":"Fazer as coisas por fazer não combina com o sucesso. Você já parou para pensar se o que faz hoje realmente importa para você? Caso não, talvez seja o momento de repensar seus passos até encontrar algo que possa ser feito com amor e real dedicação!"
+        },
+        {
+          "Frase":"Sucesso é encontrar aquilo que se tenciona ser e depois fazer o que é necessário para isso.",
+          "Autor":"Epicteto",
+          "Reflexão":"Você sabia que Epicteto foi um filósofo grego que passou a maior parte da sua vida sendo escravo? Encontrar o seu objetivo e dedicar-se o máximo possível a ele foi um dos seus maiores lemas em vida. Vindo de alguém que esteve preso boa parte da vida é um incentivo e tanto, não?"
+        },
+        {
+          "Frase":"O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis.",
+          "Autor":"José de Alencar",
+          "Reflexão":"O que José de Alencar fala acima é sobre, para além de chegar onde você quer chegar, conseguir enxergar as belezas do caminho. Uma guerra é feita de pequenas batalhas e cada uma que você vence pode (e deve) ir para a sua coleção de aprendizados e triunfos."
+        },
+        {
+          "Frase":"O homem não teria alcançado o possível se, repetidas vezes, não tivesse tentado o impossível.",
+          "Autor":"Max Weber",
+          "Reflexão":"A matemática aqui também é simples: o impossível existe só até que alguém o realize. Aí está a essência de quebrar barreiras. Arrisque!"
+        },
+        {
+          "Frase":"Determinação, coragem e autoconfiança são fatores decisivos para o sucesso. Se estamos possuídos por uma inabalável determinação, conseguiremos superá-los. Independentemente das circunstâncias, devemos ser sempre humildes, recatados e despidos de orgulho.",
+          "Autor":"Dalai Lama",
+          "Reflexão":"Conheça suas limitações, suas fraquezas e aja de acordo com elas: essa é a definição de humildade. Uma qualidade que pode ser facilmente esquecida no processo de busca pelo sucesso, mas é importantíssima para um resultado verdadeiramente valioso."
+        },
+        {
+          "Frase":"Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo.",
+          "Autor":"Martin Luther King",
+          "Reflexão":"Pense no que você deveria fazer hoje e não está fazendo. Livre sua mente de pensamentos negativos. Tome a primeira ação: seja escrever uma frase, sair de casa, organizar algo. Você vai ver como depois do primeiro passo a luta parece muito menos difícil!"
+        },
+        {
+          "Frase":"Ter uma melhora constante é melhor do que a perfeição adiada.",
+          "Autor":"Mark Twain",
+          "Reflexão":"Ah, mas ainda não sei bem como fazer isso. Ah, mas é complicado. Ah, mas não sei se consigo. Ah, mas não está bom o suficiente. Ah, mas tem tanta gente que já fez e fez melhor! São frases que você já disse em algum momento da sua caminhada? Então pare e comece de novo. É só fazendo que se aperfeiçoa coisas, não se cobre tanto!"
+        },
+        {
+          "Frase":"Acredito que uma regra simples do mundo dos negócios é: se você faz as coisas mais fáceis primeiro, então você pode de fato ter um grande progresso.",
+          "Autor":"Mark Zuckerberg",
+          "Reflexão":"Tarefas e planos podem parecer muito complicados quando vistos em sua totalidade. O segredo que o fundador do Facebook conta para gente é simples: pegue no que for mais fácil e resolva. A sensação de ter feito algo já vai ajudar bastante o restante do processo."
+        },
+        {
+          "Frase":"O sucesso é atingido duas vezes: a primeira na mente e a segunda no mundo real.",
+          "Autor":"Azim Premji",
+          "Reflexão":"O conselho do “Bill Gates Indiano” pode parecer clichê, e talvez até seja, mas de que adianta alcançar um objetivo real se por dentro você não se sente bem sucedida (o)? Acontece com todo mundo: começar um plano por influências internas sem que por dentro esteja realmente disposto e certo da vitória. Não funciona. Azim diz: comece por dentro!"
+        },
+        {
+          "Frase":"Se os teus sonhos não te assustam, eles não são grandes o suficiente.",
+          "Autor":"Ellen Johnson Sirleaf",
+          "Reflexão":"Essa frase foi dita por uma mulher que venceu o Nobel da Paz e foi a primeira a ser eleita chefe de estado em um país africano. E a mensagem é clara: ter medo faz parte do processo. Desafios grandes podem ser ainda mais recompensadores, acredite no seu poder de FAZER MAIS."
+        },
+        {
+          "Frase":"O sucesso é ir de fracasso em fracasso sem perder o entusiasmo.",
+          "Autor":"Winston Churchill",
+          "Reflexão":"Nem sempre ganhamos e o jogo da vida é cheio de altos e baixos. Reconhecer essa dinâmica é essencial para manter a sua vontade de seguir em frente e continuar tentando! Se o processo consegue ser tão prazeroso quanto a chegada, então você já estará bem!"
+        },
+        {
+          "Frase":"Vamos inventar o amanhã e parar de nos preocupar com o passado.",
+          "Autor":"Steve Jobs",
+          "Reflexão":"O grande pioneiro que revolucionou a indústria de tecnologia e a forma como nos comunicamos hoje tem um recado para você: não se martirize pelo passado, você tem apenas o amanhã para fazer algo revolucionário."
+        },
+        {
+            "Frase":"A persistência é o caminho do êxito.",
+            "Autor":"Charles Chaplin",
+            "Reflexão":"Nunca desista dos seus sonhos, persista, hoje e sempre!"
+        },
+        {
+            "Frase":"Além da nobre arte de fazer coisas, existe a nobre arte de deixar coisas sem fazer. A sabedoria da vida consiste na eliminação do que não é essencial.",
+            "Autor":"Lin Yutang",
+            "Reflexão":"Às vezes, dizer um não é uma forma de abrir tempo e espaço para aquilo que realmente importa."
+        },
+        {
+            "Frase":"A vida é de dentro para fora. Quando você muda por dentro, a vida muda por fora.",
+            "Autor":"Kamal Ravikant",
+            "Reflexão":"Trabalhe os medos e receios que existem dentro de você. Para ver grandes mudanças na sua vida profissional, é importante trabalhar o seu interior. Conheça-se, invista em você."
+        },
+        {
+            "Frase":"Se alguém lhe bloquear a porta, não gaste energia com o confronto. Procure as janelas.",
+            "Autor":"Augusto Cury",
+            "Reflexão":"É importante ter um plano A, um plano B, um plano C, na dúvida, criar até o plano Z!"
+        },
+        {
+            "Frase":"Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e torne-as grandes! Homens fracos esperam por oportunidades, homens fortes criam-nas.",
+            "Autor":"Orison Swett Marden",
+            "Reflexão":"Saber aproveitar cada chance que nos é ofertada e retirar dela o máximo possível é um dos segredos do sucesso compartilhado por grandes profissionais."
+        },
+        {
+            "Frase":"Não importa o quanto você vá devagar desde que não pare.",
+            "Autor":"Confúcio",
+            "Reflexão":"Não adianta fazer um trabalho às pressas. Por vezes, ir com calma e no seu tempo é mais eficaz do que a velocidade de produção."
+        },
+        {
+            "Frase":"O sucesso é a soma de pequenos esforços - repetidos dia sim, e no outro dia também.",
+            "Autor":"Robert Collier",
+            "Reflexão":"O sucesso não é alcançado de uma vez só, mas sim através de pequenos esforços constantes e consistentes, que devem ser repetidos todos os dias, sem exceção. O sucesso é, portanto, uma consequência da disciplina e perseverança."
+        },
+        {
+            "Frase":"Acredite que você pode, assim você já está no meio do caminho.",
+            "Autor":"Theodore Roosevelt",
+            "Reflexão":"Acreditar em si mesmo é um passo fundamental para alcançar um objetivo ou realizar uma tarefa. Ao acreditar em sua capacidade, você já está no caminho certo para alcançar o sucesso, pois a confiança em si mesmo é uma das principais fontes de motivação e perseverança."
+        },
+        {
+            "Frase":"Tudo o que você sempre quis está do outro lado da linha do medo.",
+            "Autor":"George Addair",
+            "Reflexão":"O medo é o que impede as pessoas de alcançarem seus objetivos ou realizarem seus sonhos. O que você deseja alcançar na vida pode estar do outro lado da sua zona de conforto."
+        },
+        {
+            "Frase":"Quando você quer alguma coisa, todo o universo conspira para que você realize o seu desejo.",
+            "Autor":"Paulo Coelho",
+            "Reflexão":"Originalmente do livro O Alquimista de Paulo Coelho, este pensamento sugere que quando uma pessoa está realmente determinada a alcançar um objetivo, o universo inteiro trabalha a seu favor para ajudá-la a realizar esse desejo."
+        },
+        {
+            "Frase":"A única maneira de fazer um bom trabalho é amando o que você faz.",
+            "Autor":"Steve Jobs",
+            "Reflexão":"Quando se tem paixão pelo trabalho, é mais fácil dedicar tempo e esforço para aprender e aprimorar as habilidades necessárias para executá-lo com excelência."
+        }
+      ],
+      "inspiracao":  [
+        "Quando chover, busque pelo arco-íris. Quando escurecer, busque pelas estrelas.",
+        "Seja o piloto de suas histórias e voe o mais alto que conseguir.",
+        "Nenhum mar calmo torna um marinheiro especialista em navegação.",
+        "Quem tem luz própria jamais ficará na escuridão.",
+        "O que não tem solução virando a página, terá solução mudando de livro.",
+        "Quanto mais fortes forem suas provações, maiores serão suas vitórias.",
+        "Se você não vivenciar a tristeza, não saberá reconhecer quando a felicidade chegar.",
+        "No final, as coisas que nos arrependeremos serão as decisões que não tomamos.",
+        "Você é mais corajoso do que pensa, mais forte do que parece e mais esperto do que acredita.",
+        "A inspiração jamais chega primeiro que o esforço.",
+        "Transforme seus sonhos em objetivos e sua vida será um grande sucesso.",
+        "Não se compare com os demais. Ser único e especial é o que vai te distinguir em sua caminhada para o sucesso.",
+        "Esteja sempre um passo à frente dos seus concorrentes e meio passo atrás dos seus limites.",
+        "Praticar a compaixão, o amor e o carinho é a forma mais pura de cuidar da humanidade.",
+        "A maior coragem que você pode ter na vida é lutar novamente, mesmo após ter sido derrubado.",
+        "Quando o dia está cinza, seja o seu próprio arco-íris.",
+        "A vida também é uma consequência de como encaramos as situações a nossa volta.",
+        "Não tenha medo das conquistas. Tenha medo de não tentar.",
+        "Se o caminho é difícil, você está fazendo tudo certo.",
+        "Os obstáculos são apenas oportunidades disfarçadas para deixar você mais forte.",
+        "É melhor se arrepender do que fez do que somente imaginar o que poderia ser feito.",
+        "Não desista. As melhores oportunidades aparecem quando você menos espera.",
+        "Olhe para o horizonte e tenha a certeza de que tudo vai dar certo.",
+        "Não espere pelo momento perfeito. Faça de cada momento a oportunidade perfeita.",
+        "Para boas recompensas não há atalhos.",
+        "Trabalhe duro em silêncio. Deixe que o sucesso faça barulho.",
+        "Você é mais forte do que imagina, mais capaz do que pensa e mais valioso do que acredita.",
+        "A verdadeira felicidade é ser feliz sem motivos.",
+        "Vencedores não são pessoas que nunca falham, são pessoas que nunca desistem.",
+        "A cada fracasso, há uma lição a ser aprendida e um passo a ser dado em direção ao sucesso.",
+        "A mudança é dolorosa, mas necessária. Você só vai encontrar felicidade se souber se adaptar a ela!",
+        "Os limites que impomos sobre nós mesmos podem se tornar verdadeiras prisões.",
+        "Erros são as provas de que estamos tentando.",
+        "A receita para o sucesso está no equilíbrio.",
+        "A primavera sempre chega, mesmo que neste momento você sinta que está preso em um inverno sem fim.",
+        "O maior bem que você pode fazer a si mesmo é seguir seus princípios e seus sonhos.",
+        "Nenhum ser humano conseguiu voar sem primeiro tirar os pés do chão.",
+        "Percorra o mundo! Viajar não é despesa, é investimento.",
+        "Se você não encontrar alguém que te inspire, seja o seu próprio exemplo de sucesso.",
+        "Até a noite mais escura vai chegar ao fim e o sol vai se levantar mais uma vez.",
+        "Viver é acalentar sonhos e esperanças, fazendo da fé a nossa inspiração maior. É buscar nas pequenas coisas, um grande motivo para ser feliz!",
+        "Se o plano não funciona, mude o plano, não a meta.",
+        "Viva a história que você gostaria de contar.",
+        "Quando entendemos que foi “um dia a menos” e não “um dia a mais”, começamos a nos dar conta do que realmente importa nesta vida.",
+        "Não nascemos sendo vencedores e não nascemos sendo perdedores. Nascemos podendo escolher.",
+        "Existem duas coisas que nos impedem de ser feliz: viver no passado e nos compararmos com os outros.",
+        "A vida é igual andar de bicicleta. Para manter o equilíbrio é preciso se manter em movimento.",
+        "Pouco importa o quão longe você caiu, sempre há uma chance de se levantar e começar de novo.",
+        "Tentar evitar o fracasso é uma forma de fugir do êxito.",
+        "As limitações só existem em nossa mente. Mas, se usarmos nossa imaginação, nossas possibilidades serão infinitas.",
+        "Se quiser alcançar a grandeza, pare de pedir permissão.",
+        "O êxito é a coleção dos pequenos esforços que tomamos dia sim e no outro também.",
+        "A motivação é o que ajuda a começar. O hábito é o que faz seguir adiante.",
+        "Caiu? Levante-se com força e determinação. Uma hora vai dar certo!",
+        "A melhor maneira que o homem dispõe para se aperfeiçoar é aproximar-se de Deus.",
+        "O melhor momento para plantar uma árvore foi há 20 anos. O segundo melhor momento é agora!",
+        "Pessoas positivas são aquelas que caem, se levantam, se sacodem, curam seus arranhões, sorriem para a vida e dizem: “Aqui vou eu novamente",
+        "O sucesso é a soma de pequenas vitórias diárias.",
+        "O seu maior professor é o seu maior erro.",
+        "Que tal começar o dia com um sorriso no rosto e uma atitude positiva? As coisas boas virão naturalmente.",
+        "Quando se der conta de que está procrastinando, se pergunte: “de quem estou tentando fugir?”.",
+        "Cada erro deixa um ensino, cada ensino deixa uma experiência e cada experiência deixa uma marca.",
+        "Não importa o que aconteça, no final, você terá sempre uma história para contar.",
+        "Quando foi a última vez que você fez alguma coisa pela primeira vez?",
+        "Uma pessoa que nunca se equivocou nunca tentou algo de novo.",
+        "Os desafios são o que tornam a vida interessante, e superá-los é o que torna a vida significativa.",
+        "Aquele que passa a vida inteira com medo de dar o primeiro passo passará o resto da vida sob apenas um pé.",
+        "Ser grande não é uma questão de tamanho, é uma questão de atitude.",
+        "Se a montanha que você está escalando parece cada vez mais imponente, é porque o topo está cada vez mais perto.",
+        "A diferença entre onde você estava ontem e onde você estará amanhã está no que você pensa e diz hoje.",
+        "Ser positivo em uma situação negativa não é ser ingênuo, é ser um líder.",
+        "Aproveite cada momento do dia, seja grato e deixe a positividade guiar suas ações.",
+        "Não se conforme apenas com o que você precisa, lute pelo que você realmente merece.",
+        "Trabalhar duro irá te levar ao topo, aproveitar o caminho te levará mais longe.",
+        "Não faça apenas o que as outras pessoas estão fazendo. Faça o que estas pessoas queriam fazer, mas jamais se atreveram.",
+        "Você é o protagonista de sua própria história, então trate de escrever um final incrível.",
+        "Durma todos os dias sabendo que você merece o mundo inteiro.",
+        "Você nem sempre precisa de um plano, às vezes você só precisa respirar, confiar, deixar acontecer e ver o que acontece.",
+        "Ouça mais, fale menos. Pessoas mais quietas tendem a ter mentes mais falantes.",
+        "As mentes mais poderosas têm objetivos, as demais, têm desejos.",
+        "Se você acredita que pode, já está a meio caminho de alcançar o que tanto quer.",
+        "Pare de ficar esperando pela oportunidade perfeita, crie uma com sua determinação.",
+        "Se rirem de você por ser diferente, ria dos demais por serem todos iguais.",
+        "Não deixe que a preguiça seja maior do que sua vontade de alcançar seus sonhos.",
+        "Não importa o quão difícil seja o caminho, lembre-se que a jornada vale a pena no final, especialmente se você pode rir dela no meio do caminho.",
+        "Não olhe para trás e pergunte “por quê?”. Olhe para a frente e pergunte-se “por que não?”.",
+        "A sua vida ficará ainda mais rica a partir do momento que você começar a colecionar boas memórias. ",
+        "Nosso momento nesta Terra é limitado. Aproveite cada instante como se ele fosse o último. ",
+        "Seja a sua melhor versão e conquiste o mundo com o seu jeitinho particular! ",
+        "A espontaneidade e as surpresas da vida é o que a tornam interessante. ",
+        "A vida pode ser bela. Para isso, devemos sempre buscar nos pequenos detalhes a perfeição de cada instante. ",
+        "Sonhe, se jogue, arrisque tudo que puder, viva! ",
+        "A beleza de sonhar por uma vida melhor é de graça e pode colocar os seus objetivos no caminho certo. ",
+        "Nossas vidas são definidas por oportunidades, inclusive aquelas que perdemos.",
+        "O homem que mais viveu não é aquele que completou mais anos, mas aquele que experimentou a vida com mais intensidade.",
+        "A vida é 10% do que nos ocorre e 90% de como reagimos.",
+        "Esteja presente em cada momento da sua vida, antes que estes momentos se tornem apenas lembranças. ",
+        "Não conte os dias da sua vida, deixe que a vida os conte por você.",
+        "Encontrar beleza na simplicidade das coisas ao nosso redor é o segredo da vida. ",
+        "Assuma a responsabilidade sobre seus próprios ombros e saiba que você é o criador do seu destino.",
+        "A vida pode não ser um conto de fadas, mas é repleta de pequenos milagres para quem pensa positivamente.",
+        "Provações e desafios fazem parte da vida, por isso, não se deixe intimidar por eles. Seja corajoso, focado e persistente para realizar os seus sonhos."
+      ]
+    }
+  ],
+  "poesias": [
+    {
+      "motivadora": [
+        {
+          "poesia": "não discuto com o destino o que pintar eu assino",
+          "autor": "Paulo Leminski"
+        },
+        {
+          "poesia": "isso de querer ser exatamente aquilo que a gente é ainda vai nos levar além",
+          "autor": "Paulo Leminski"
+        },
+        {
+          "poesia": "Um homem com uma dor; É muito mais elegante; Caminha assim de lado; Com se chegando atrasado; Chegasse mais adiante",
+          "autor": "Paulo Leminski"
+        },
+        {
+          "poesia": "Sinto muito, sentir é muito lento.",
+          "autor": "Paulo Leminski"
+        },
+        {
+          "poesia": "A vida é muito bonita, basta um beijo e a delicada engrenagem movimenta-se, uma necessidade cósmica nos protege.",
+          "autor": "Adélia Prado"
+        },
+        {
+          "poesia": "Fui dormir umas vezes tão feliz, que, se soubesse minha força, levitava. Em outras, tanta foi a tristeza que fiz versos",
+          "autor": "Adélia Prado"
+        },
+        {
+          "poesia": "Aprendi com as primaveras a deixar-me cortar e a voltar sempre inteira.",
+          "autor": "Cecília Meireles"
+        },
+        {
+          "poesia": "A vida só é possível reinventada.",
+          "autor": "Cecília Meireles"
+        },
+        {
+          "poesia": "Eu canto porque o instante existe e a minha vida está completa. Não sou alegre nem sou triste: sou poeta.",
+          "autor": "Cecília Meireles"
+        },
+        {
+          "poesia": "A maior riqueza do homem é sua incompletude. Nesse ponto sou abastado.",
+          "autor": "Manoel de Barros"
+        },
+        {
+          "poesia": "Você vai encher os vazios com as suas peraltagens, e algumas pessoas vão te amar por seus despropósitos!",
+          "autor": "Manoel de Barros"
+        },
+        {
+          "poesia": "A maior riqueza do homem é sua incompletude. Nesse ponto sou abastado.",
+          "autor": "Manoel de Barros"
+        },
+        {
+          "poesia": "Uma parte de mim é todo mundo: outra parte é ninguém: fundo sem fundo..",
+          "autor": "Ferreira Gullar"
+        },
+        {
+          "poesia": "Como dois e dois são quatro sei que a vida vale a pena embora o pão seja caro e a liberdade pequena",
+          "autor": "Ferreira Gullar"
+        },
+        {
+          "poesia": "O que passou passou. Jamais acenderás de novo o lume do tempo que apagou.",
+          "autor": "Ferreira Gullar"
+        },
+        {
+          "poesia": "bebendo o Sol de fogo e o Mundo oco, meu coração é um Almirante louco Que abandonou a profissão do Mar.",
+          "autor": "Ariano Suassuna"
+        },
+        {
+          "poesia": "Por isso, não vou nunca envelhecer: com meu Cantar, supero o Desespero, sou contra a Morte e nunca hei de morrer.",
+          "autor": "Ariano Suassuna"
+        },
+        {
+          "poesia": "Apaixonada, saquei minha arma, minha alma, minha calma, só você não sacou nada.",
+          "autor": "Ana Cristina Cesar"
+        },
+        {
+          "poesia": "Eu fêmea-matriz. Eu força-motriz. Eu-mulher, abrigo da semente, moto-contínuo do mundo",
+          "autor": "Conceição Evaristo"
+        },
+        {
+          "poesia": "Na voz de minha filha, se fará ouvir a ressonância, o eco da vida-liberdade.",
+          "autor": "Conceição Evaristo"
+        },
+        {
+          "poesia": "E eu vos direi: “Amai para entendê-las! Pois só quem ama pode ter ouvido; Capaz de ouvir e de entender estrelas.",
+          "autor": "Olavo Bilac"
+        },
+        {
+          "poesia": "E mais eleva o coração de um homem Ser de homem sempre e, na maior pureza, Ficar na terra e humanamente amar.",
+          "autor": "Olavo Bilac"
+        },
+        {
+          "poesia": "A gaveta da alegria, já está cheia, de ficar vazia",
+          "autor": "Alice Ruiz"
+        },
+        {
+          "poesia": "Neve ou não neve, onde há amigos, a vida é leve",
+          "autor": "Alice Ruiz"
+        },
+        {
+          "poesia": "Você deixou tudo a tua cara, Só pra deixar tudo, Com cara de saudade.",
+          "autor": "Alice Ruiz"
+        },
+        {
+          "poesia": "Que tudo seja leve de tal forma que o tempo nunca leve.",
+          "autor": "Alice Ruiz"
+        }
+      ],
+      "insipradora": [
+        {
+          "Poesia":"Poeta, não somente o que escreve. É aquele que sente a poesia, se extasia sensível ao achado de uma rima, à autenticidade de um verso.",
+          "Autor":"Cora Coralina"
+        },
+        {
+          "Poesia":"Se eu gosto de poesia? Gosto de gente, bichos, plantas, lugares, chocolate, vinho, papos amenos, amizade, amor. Acho que a poesia está contida nisso tudo.",
+          "Autor":"Carlos Drummond de Andrade"
+        },
+        {
+          "Poesia":"Elizabeth: Eu me pergunto quem descobriu o poder da poesia para espantar o amor. Darcy: Achei que fosse o alimento do amor. Elizabeth: Do amor belo e vigoroso. Mas se é apenas uma vaga inclinação, um pobre soneto o liquidará. Orgulho e Preconceito",
+          "Autor":"Jane Austen"
+        },
+        {
+          "Poesia":"A ideia de liberdade é inspiradora. Mas o que significa? Se você é livre em um sentido político mas não tem comida, que liberdade é essa? A liberdade de morrer de fome?",
+          "Autor":"Angela Davis"
+        },
+        {
+          "Poesia":"Para mim, o importante em poesia é a qualidade da eternidade que um poema poderá deixar em quem o lê sem a ideia de tempo.",
+          "Autor":"Juan Ramón Jiménez"
+        },
+        {
+          "Poesia":"A verdadeira amizade é aquela que nos permite falar, ao amigo, de todos os seus defeitos e de todas as nossas qualidades.",
+          "Autor":"Millôr Fernandes"
+        },
+        {
+          "Poesia":"Quero para mim o espírito desta frase, transformada a forma para a casar com o que eu sou: viver não é necessário, o que é necessário é criar.",
+          "Autor":"Fernando Pessoa"
+        },
+        {
+          "Poesia":"Se alguém te perguntar o que quiseste dizer com um poema, pergunta-lhe o que Deus quis dizer com este mundo...",
+          "Autor":"Mario Quintana"
+        },
+        {
+          "Poesia":"Se um poeta consegue um dia expressar as suas dores com toda a felicidade como é que poderá ser infeliz?",
+          "Autor":"Mario Quintana"
+        },
+        {
+          "Poesia":"Seja o caráter formado pela poesia, estabelecido pelas regras do procedimento correto e aperfeiçoado pela música.",
+          "Autor":"Confúcio"
+        },
+        {
+          "Poesia":"Saudade mexe com a gente, os olhos ficam cheios de lágrimas rolam pela face, só assim alivia o coração.",
+          "Autor":"Maria Bonita"
+        },
+        {
+          "Poesia":"Liberdade é uma palavra que o sonho humano alimenta, não há ninguém que explique e ninguém que não entenda.",
+          "Autor":"Cecília Meireles"
+        },
+        {
+          "Poesia":"Nenhum homem que tenha vivido conhece mais sobre a vida depois da morte que eu ou você. Toda religião simplesmente desenvolveu-se com base na trapaça, no medo, na ganância, na imaginação e na poesia.",
+          "Autor":"Edgar Allan Poe"
+        },
+        {
+          "Poesia":"Todos os dias devíamos ouvir um pouco de música, ler uma boa poesia, ver um quadro bonito e, se possível, dizer algumas palavras sensatas.",
+          "Autor":"Johann Goethe"
+        },
+        {
+          "Poesia":"Não consigo escrever poesia: não sou poeta. Não consigo dispor as palavras com tal arte que elas reflitam as sombras e a luz, não sou pintor... Mas consigo fazer tudo isso com a música...",
+          "Autor":"Wolfgang Amadeus Mozart"
+        },
+        {
+          "Poesia":"A poesia não está nos versos, por vezes ela está no coração. E é tamanha. A ponto de não caber nas palavras.",
+          "Autor":"Jorge Amado"
+        },
+        {
+          "Poesia":"Uma dose de poesia, o som de um violão, um pouquinho de sarcasmo e acrescente o que sua imaginação permitir...",
+          "Autor":"Aline Diedrich"
+        },
+        {
+          "Poesia":"O humor é irmão da poesia, o humor é quem denuncia, eu não tenho possibilidade de consertar nada, mas eu tenho a obrigação de denunciar tudo, o humor é tudo, até engraçado",
+          "Autor":"Chico Anysio"
+        },
+        {
+          "Poesia":"Nomear um objecto equivale a suprimir os três quartos de prazer da poesia, que é feito de adivinhar pouco a pouco: sugeri-lo, eis o sonho.",
+          "Autor":"Stéphane Mallarmé"
+        },
+        {
+          "Poesia":"A crítica é a consciência ou o olho da poesia, a mesma obra espontânea do gênio reproduzida como obra refletida pelo gosto.",
+          "Autor":"Francesco Sanctis"
+        },
+        {
+          "Poesia":"A poesia é o esquecimento da alma no objeto da sua contemplação; a crítica é o esquecimento da alma na poesia.",
+          "Autor":"Francesco Sanctis"
+        },
+        {
+          "Poesia":"Quem não lê, nunca poderá escrever. A leitura é tão inspiradora que, desperta em nós novos horizontes.",
+          "Autor":"Hervé Salvador"
+        },
+        {
+          "Poesia":"A noite é cheia de mistério,  magnifica e inspiradora. Faz a mente viajar nos levando por caminhos desconhecidos. ",
+          "Autor":"Cristiano Murcia"
+        },
+        {
+          "Poesia":"Aprendi com meu filho de dez anos que a poesia é a descoberta das coisas que eu nunca vi",
+          "Autor":"Oswald de Andrade"
+        },
+        {
+          "Poesia":"Como não amar à poesia da vida se é ela quem me faz sonhar na realidade que me veste à alma e o coração.",
+          "Autor":"Lourdes Sousa"
+        }
+      ]
+    }
+  ]
+}
